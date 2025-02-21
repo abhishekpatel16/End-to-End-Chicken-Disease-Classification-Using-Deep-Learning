@@ -1,0 +1,14 @@
+tensorflow==2.12.0  # Open-source machine learning framework for building and training deep learning models
+pandas  # Data analysis and manipulation library, great for handling structured data
+numpy  # Fundamental package for scientific computing with support for large multi-dimensional arrays and matrices
+matplotlib  # Plotting library for visualizing data
+seaborn  # Statistical data visualization built on top of Matplotlib
+python-box==6.0.2  # Dictionary-like data structures with dot notation access
+pyYAML  # Parsing and writing YAML files, often used for config files
+tqdm  # Progress bar utility for loops and processing
+ensure==1.0.2  # Utility for ensuring and validating conditions in Python
+joblib  # Efficiently save and load models, useful for parallel computing
+scipy  # Scientific computing library with optimization, integration, and signal processing capabilities
+Flask  # Lightweight web framework for creating APIs and web applications
+Flask-Cors  # Handles Cross-Origin Resource Sharing (CORS) in Flask applications
+-e .  # Editable install of the current package (typically used for local package development)
